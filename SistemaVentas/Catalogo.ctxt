@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Catalogo
+comment1.params=productos
+comment1.target=Catalogo(Producto[])
+comment2.params=
+comment2.target=void\ crearInterfaz()
+comment3.params=e
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=producto
+comment4.target=void\ abrirFormularioCompra(Producto)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

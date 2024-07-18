@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Administrador
+comment1.params=id\ nombre\ email\ contrase\u00F1a
+comment1.target=Administrador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=usuario
+comment2.target=void\ gestionarUsuarios(Usuario)
+comment3.params=reporte
+comment3.target=void\ generarReportes(Reporte)
+comment4.params=producto
+comment4.target=void\ gestionarInventario(Producto)
+comment5.params=usuario
+comment5.target=void\ cerrarSesionUsuario(Usuario)
+numComments=6

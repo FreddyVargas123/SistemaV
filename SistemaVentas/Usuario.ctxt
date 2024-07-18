@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=id\ nombre\ email\ contrase\u00F1a\ tipo
+comment1.target=Usuario(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=email\ contrase\u00F1a
+comment2.target=boolean\ iniciarSesion(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ cerrarSesion()
+comment4.params=
+comment4.target=boolean\ isLogueado()
+comment5.params=
+comment5.target=java.lang.String\ getTipo()
+comment6.params=
+comment6.target=java.lang.String\ getId()
+comment7.params=
+comment7.target=java.lang.String\ getNombre()
+comment8.params=
+comment8.target=java.lang.String\ getEmail()
+comment9.params=
+comment9.target=java.lang.String\ getContrase\u00F1a()
+numComments=10

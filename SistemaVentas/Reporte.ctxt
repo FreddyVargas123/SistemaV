@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Reporte
+comment1.params=id\ fecha\ tipo\ datos
+comment1.target=Reporte(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ generarReporte()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=id\ fecha\ cliente\ vendedor\ producto
+comment1.target=Venta(java.lang.String,\ java.lang.String,\ Cliente,\ Vendedor,\ Producto)
+comment2.params=
+comment2.target=void\ calcularTotal()
+comment3.params=
+comment3.target=void\ procesarVenta()
+comment4.params=
+comment4.target=double\ getTotal()
+numComments=5
