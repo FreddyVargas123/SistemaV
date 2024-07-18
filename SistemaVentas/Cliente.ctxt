@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=id\ nombre\ email\ contrase\u00F1a
+comment1.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=venta
+comment2.target=void\ realizarCompra(Venta)
+comment3.params=producto
+comment3.target=void\ consultarCatalogo(Producto)
+comment4.params=usuario
+comment4.target=void\ cerrarSesionUsuario(Usuario)
+numComments=5
